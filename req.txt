@@ -1,0 +1,7 @@
+pyautogui
+pygetwindow
+rich
+requests
+colorama
+psutil
+
