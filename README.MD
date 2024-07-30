@@ -6,9 +6,9 @@
 
 ## Features
 
-[💚]- **Automated Visits**: Automatically join Roblox VIP servers using multiple Chrome profiles.
+[💚]- **Automated Visits**: Automatically join Roblox VIP servers generating u visits.
 
-[💚]- **Profile Management**: Easily manage and select Chrome profiles for visiting Roblox games.
+[💚]- **Profile Management**: Easily manage and select Chrome profiles for visit botting Roblox games.
 
 [💚]- **Instance Monitoring**: Monitors and manages Roblox instances, ensuring all sessions are properly closed.
 
