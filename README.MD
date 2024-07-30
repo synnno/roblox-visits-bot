@@ -45,7 +45,7 @@ Follow these steps to set up and use the Roblox Visits Bot:
 * Go to the game you want to visit with the bot.
 * Create a private server.
 * Copy the VIP server link and paste it into the Chrome profile you just created.
-###4. Configure Roblox Client
+### 4. Configure Roblox Client
 * A prompt should appear asking, "Open Roblox Client?".
 * Below this prompt, ensure that you check the box saying "Always allow roblox.com to open links of this type in the associated app".
 * IMPORTANT: Without checking this box, the script will not work.
@@ -60,4 +60,5 @@ Follow these steps to set up and use the Roblox Visits Bot:
 * After opening all profiles using this option, ensure that you close all Roblox processes.
 ### 8. Ready to Run the Visit Bot
 * Once all profiles are set up and Roblox processes are closed, you are ready to run the visit bot.
+
 my explaining is kinda bad you can follow the video it might be easier for you to setup :<
